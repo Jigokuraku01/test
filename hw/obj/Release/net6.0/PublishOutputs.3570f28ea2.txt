@@ -1,0 +1,5 @@
+C:\Users\andka\прога\GitHub\hw\bin\Release\net6.0\publish\hw.exe
+C:\Users\andka\прога\GitHub\hw\bin\Release\net6.0\publish\hw.dll
+C:\Users\andka\прога\GitHub\hw\bin\Release\net6.0\publish\hw.deps.json
+C:\Users\andka\прога\GitHub\hw\bin\Release\net6.0\publish\hw.runtimeconfig.json
+C:\Users\andka\прога\GitHub\hw\bin\Release\net6.0\publish\hw.pdb
